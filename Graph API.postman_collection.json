@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "5e3271be-3bfb-4db1-a6da-477aac9660be",
+		"name": "Graph API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "16401553"
+	},
+	"item": [
+		{
+			"name": "GetCountries",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "GetCountry",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
